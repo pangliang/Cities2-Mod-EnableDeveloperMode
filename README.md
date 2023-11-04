@@ -1,3 +1,5 @@
+**!!! Merge multiple projects into one project and use submodules to manage them: [New Project](https://github.com/pangliang/Cities-Skyline2-Mods) !!!**
+
 # Cities Skylines 2 Modding - EnableDeveloperMode
 Example mod for Cities Skylines 2. Activates the DevMode by default with a mod instead
 
